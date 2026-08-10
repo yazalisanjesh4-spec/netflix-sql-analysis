@@ -3,9 +3,7 @@
 ## 📌 Project Overview
 # Netflix Content Analysis Using SQL
 
-<p align="center">
-  <img src="C:\Users\yazal\Downloads\Netflix .jpeg" alt="Netflix SQL Content Analysis Project" width="800">
-</p>
+# Netflix Content Analysis Using SQL
 
 This project analyzes Netflix's content catalog using MySQL to identify
 content growth trends, Movie vs TV Show distribution, rating patterns,
