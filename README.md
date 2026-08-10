@@ -1,9 +1,8 @@
-# Netflix Content Analysis Using SQL
+
 
 ## 📌 Project Overview
 # Netflix Content Analysis Using SQL
 
-# Netflix Content Analysis Using SQL
 
 This project analyzes Netflix's content catalog using MySQL to identify
 content growth trends, Movie vs TV Show distribution, rating patterns,
@@ -11,7 +10,7 @@ movie duration trends, and TV Show season distribution.
 
 The project demonstrates practical SQL skills including CTEs,
 window functions, ranking, running totals, joins, aggregations,
-date functions, and string manipulation.
+date functions, and string manipulation.  
 Data Source:https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## 🎯 Business Objectives
